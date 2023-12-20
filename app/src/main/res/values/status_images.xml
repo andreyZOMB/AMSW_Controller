@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="status_images">
+        <item>@drawable/unknown</item>
+        <item>@drawable/loading</item>
+        <item>@drawable/ok</item>
+        <item>@drawable/working</item>
+        <item>@drawable/warning</item>
+        <item>@drawable/danger</item>
+    </integer-array>
+</resources>

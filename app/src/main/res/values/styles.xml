@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name = "modulesStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:text">@string/null_string</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name="fieldDeclaration">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="field" parent="fieldDeclaration">
+    </style>
+    <style name="littleFieldDeclaration">
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

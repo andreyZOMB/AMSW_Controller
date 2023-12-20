@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF444444</color>
+    <color name="white_gray">#FFAAAAAA</color>
+    <color name="red">#FFFF0000</color>
+    <color name="orange">#FFFF7f00</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="faded_yellow">#FFFF7F40</color>
+    <color name="active_load_background">#FF8B8B</color>
+    <color name="module_background">#AEAEAE</color>
+    <color name="dth_background">#7DDAFF</color>
+    <color name="analog_sensor_background">#885B34</color>
+    <color name="green">#FF00FF00</color>
+    <color name="icon">#296092</color>
+</resources>
